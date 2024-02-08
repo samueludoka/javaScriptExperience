@@ -4,7 +4,7 @@ arr.forEach((x) => {
     if(x % 2 === 0){
         console.log(x);
     }
-})
+});
 
 const arr1 = [1,3,4,5,];
 const newArray = [];
