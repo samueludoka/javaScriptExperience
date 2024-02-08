@@ -11,3 +11,4 @@ function profile(firstName, lastName, cohort, sex, bestColor, location) {
 
 profile("samuel", "udoka", "18", "male", "black", "sabo");
 
+//I needed you to create an object before the print out.
